@@ -7,7 +7,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/kardianos/osext"
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 )
 
 // IsFileExists check if the file exists

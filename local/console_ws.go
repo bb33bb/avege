@@ -5,13 +5,13 @@ import (
 	"net"
 	"time"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/config"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/config"
 	"github.com/gorilla/websocket"
-	"github.com/missdeer/avege/inbound"
-	"github.com/missdeer/avege/outbound"
-	"github.com/missdeer/avege/outbound/ss"
-	"github.com/missdeer/avege/rule"
+	"github.com/LincolnYe/avege/inbound"
+	"github.com/LincolnYe/avege/outbound"
+	"github.com/LincolnYe/avege/outbound/ss"
+	"github.com/LincolnYe/avege/rule"
 )
 
 var (

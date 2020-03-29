@@ -5,7 +5,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 )
 
 var (

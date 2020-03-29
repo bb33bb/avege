@@ -2,11 +2,11 @@
 
 Socks5/Transparent Proxy Client
 
-[![Build Status](https://travis-ci.org/missdeer/avege.svg?branch=master)](https://travis-ci.org/missdeer/avege)
-[![GitHub release](https://img.shields.io/github/release/missdeer/avege.svg?maxAge=2592000)](https://github.com/missdeer/avege/releases) 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/missdeer/avege/master/LICENSE) 
-[![Github Releases Downloads Total](https://img.shields.io/github/downloads/missdeer/avege/total.svg)](https://github.com/missdeer/avege/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/missdeer/avege)](https://goreportcard.com/report/github.com/missdeer/avege)
+[![Build Status](https://travis-ci.org/LincolnYe/avege.svg?branch=master)](https://travis-ci.org/LincolnYe/avege)
+[![GitHub release](https://img.shields.io/github/release/LincolnYe/avege.svg?maxAge=2592000)](https://github.com/LincolnYe/avege/releases) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/LincolnYe/avege/master/LICENSE) 
+[![Github Releases Downloads Total](https://img.shields.io/github/downloads/LincolnYe/avege/total.svg)](https://github.com/LincolnYe/avege/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/LincolnYe/avege)](https://goreportcard.com/report/github.com/LincolnYe/avege)
 [![codebeat badge](https://codebeat.co/badges/1cf94e1d-9b1a-4834-b9ae-a99df311273e)](https://codebeat.co/projects/github-com-missdeer-avege-master)
 
 ## Feature
@@ -82,7 +82,7 @@ github.com/gin-gonic/gin
 github.com/gorilla/websocket
 github.com/DeanThompson/ginpprof
 github.com/miekg/dns
-github.com/Yawning/chacha20
+github.com/LincolnYe/chacha20
 github.com/dgryski/go-camellia
 github.com/dgryski/go-idea
 github.com/dgryski/go-rc2
@@ -96,7 +96,7 @@ github.com/ftrvxmtrx/fd
 for macOS/Linux/BSDs
 
 ```shell
-git clone https://github.com/missdeer/avege.git
+git clone https://github.com/LincolnYe/avege.git
 cd avege
 go build 
 ```

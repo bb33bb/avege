@@ -3,7 +3,7 @@ package protocol
 import (
 	"strings"
 
-	"github.com/missdeer/avege/outbound/ss/ssr"
+	"github.com/LincolnYe/avege/outbound/ss/ssr"
 )
 
 type creator func() IProtocol

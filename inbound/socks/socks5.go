@@ -2,7 +2,7 @@ package socks
 
 import (
 	"bufio"
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 	"fmt"
 	"net"
 

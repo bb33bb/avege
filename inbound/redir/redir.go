@@ -5,8 +5,8 @@ package redir
 import (
 	"net"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/inbound"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/inbound"
 )
 
 func handleTCPInbound(conn *net.TCPConn, outboundHandler common.TCPOutboundHandler) error {

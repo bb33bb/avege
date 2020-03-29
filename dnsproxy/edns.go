@@ -3,7 +3,7 @@ package dnsproxy
 import (
 	"net"
 
-	"github.com/missdeer/avege/config"
+	"github.com/LincolnYe/avege/config"
 	"github.com/miekg/dns"
 )
 

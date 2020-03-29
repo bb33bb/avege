@@ -3,7 +3,7 @@
 package config
 
 import (
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 	"syscall"
 )
 

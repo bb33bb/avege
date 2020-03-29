@@ -10,24 +10,24 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/missdeer/avege/outbound/ss"
-	"github.com/missdeer/avege/rule"
+	"github.com/LincolnYe/avege/outbound/ss"
+	"github.com/LincolnYe/avege/rule"
 
-	"github.com/missdeer/avege/inbound/tunnel"
+	"github.com/LincolnYe/avege/inbound/tunnel"
 
-	"github.com/missdeer/avege/inbound/socks"
+	"github.com/LincolnYe/avege/inbound/socks"
 
 	"github.com/DeanThompson/ginpprof"
 	"github.com/gin-gonic/gin"
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/cache"
-	"github.com/missdeer/avege/common/domain"
-	"github.com/missdeer/avege/common/fs"
-	iputil "github.com/missdeer/avege/common/ip"
-	"github.com/missdeer/avege/config"
-	"github.com/missdeer/avege/dnsproxy"
-	"github.com/missdeer/avege/inbound"
-	"github.com/missdeer/avege/inbound/redir"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/cache"
+	"github.com/LincolnYe/avege/common/domain"
+	"github.com/LincolnYe/avege/common/fs"
+	iputil "github.com/LincolnYe/avege/common/ip"
+	"github.com/LincolnYe/avege/config"
+	"github.com/LincolnYe/avege/dnsproxy"
+	"github.com/LincolnYe/avege/inbound"
+	"github.com/LincolnYe/avege/inbound/redir"
 )
 
 const (

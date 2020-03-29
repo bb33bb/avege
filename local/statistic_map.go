@@ -7,8 +7,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/cache"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/cache"
 )
 
 type remoteAddr struct {

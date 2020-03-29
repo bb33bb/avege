@@ -5,8 +5,8 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/inbound"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/inbound"
 )
 
 func parseAddr(inbound *inbound.Inbound) (rawaddr []byte, addr string) {

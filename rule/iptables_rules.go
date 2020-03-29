@@ -5,8 +5,8 @@ package rule
 import (
 	"sync"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/fs"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/fs"
 )
 
 var (

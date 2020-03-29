@@ -11,9 +11,9 @@ import (
 	"time"
 
 	proxyclient "github.com/missdeer/ProxyClient"
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/config"
-	"github.com/missdeer/avege/outbound/ss"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/config"
+	"github.com/LincolnYe/avege/outbound/ss"
 )
 
 // CommonProxyInfo fields that auth for http/https/socks

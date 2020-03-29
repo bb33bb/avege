@@ -3,9 +3,9 @@ package rule
 import (
 	"testing"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/fs"
-	"github.com/missdeer/avege/config"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/fs"
+	"github.com/LincolnYe/avege/config"
 )
 
 func TestSaveToIptablesRuleFile(t *testing.T) {

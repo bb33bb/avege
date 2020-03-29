@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 	"github.com/ftrvxmtrx/fd"
 )
 

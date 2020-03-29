@@ -3,10 +3,10 @@ package main
 import (
 	"flag"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/fs"
-	"github.com/missdeer/avege/config"
-	"github.com/missdeer/avege/rule"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/fs"
+	"github.com/LincolnYe/avege/config"
+	"github.com/LincolnYe/avege/rule"
 )
 
 func main() {

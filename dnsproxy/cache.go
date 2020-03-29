@@ -3,9 +3,9 @@ package dnsproxy
 import (
 	"strings"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/cache"
-	"github.com/missdeer/avege/config"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/cache"
+	"github.com/LincolnYe/avege/config"
 	"github.com/miekg/dns"
 )
 

@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/miekg/dns"
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/domain"
-	iputil "github.com/missdeer/avege/common/ip"
-	"github.com/missdeer/avege/common/netutil"
-	"github.com/missdeer/avege/config"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/domain"
+	iputil "github.com/LincolnYe/avege/common/ip"
+	"github.com/LincolnYe/avege/common/netutil"
+	"github.com/LincolnYe/avege/config"
 )
 
 var (

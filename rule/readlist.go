@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/fs"
-	"github.com/missdeer/avege/config"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/fs"
+	"github.com/LincolnYe/avege/config"
 )
 
 func getExceptionDomainList() (res []string) {

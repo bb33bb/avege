@@ -1,10 +1,10 @@
-module github.com/missdeer/avege
+module github.com/LincolnYe/avege
 
 go 1.12
 
 require (
 	github.com/DeanThompson/ginpprof v0.0.0-20190408063150-3be636683586
-	github.com/Yawning/chacha20 v0.0.0-20170904085104-e3b1f968fc63
+	github.com/LincolnYe/chacha20 v0.0.0-20170904085104-e3b1f968fc63
 	github.com/dgryski/go-camellia v0.0.0-20140412174459-3be6b3054dd1
 	github.com/dgryski/go-idea v0.0.0-20170306091226-d2fb45a411fb
 	github.com/dgryski/go-rc2 v0.0.0-20150621095337-8a9021637152

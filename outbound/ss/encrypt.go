@@ -10,10 +10,10 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/ds"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/ds"
 
-	"github.com/Yawning/chacha20"
+	"github.com/LincolnYe/chacha20"
 	"github.com/dgryski/go-camellia"
 	"github.com/dgryski/go-idea"
 	"github.com/dgryski/go-rc2"

@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 )
 
 func DownloadRemoteContent(remoteLink string) (io.ReadCloser, error) {

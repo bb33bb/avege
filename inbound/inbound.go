@@ -4,7 +4,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/missdeer/avege/common"
+	"github.com/LincolnYe/avege/common"
 )
 
 type Inbound struct {

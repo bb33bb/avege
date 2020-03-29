@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	proxyclient "github.com/missdeer/ProxyClient"
-	"github.com/missdeer/avege/outbound/ss/obfs"
-	"github.com/missdeer/avege/outbound/ss/protocol"
-	"github.com/missdeer/avege/outbound/ss/ssr"
+	"github.com/LincolnYe/avege/outbound/ss/obfs"
+	"github.com/LincolnYe/avege/outbound/ss/protocol"
+	"github.com/LincolnYe/avege/outbound/ss/ssr"
 )
 
 func init() {

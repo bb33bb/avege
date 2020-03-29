@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/ds"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/ds"
 )
 
 var (

@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/missdeer/avege/common"
-	"github.com/missdeer/avege/common/ds"
-	"github.com/missdeer/avege/outbound/ss/obfs"
-	"github.com/missdeer/avege/outbound/ss/protocol"
+	"github.com/LincolnYe/avege/common"
+	"github.com/LincolnYe/avege/common/ds"
+	"github.com/LincolnYe/avege/outbound/ss/obfs"
+	"github.com/LincolnYe/avege/outbound/ss/protocol"
 )
 
 // SSTCPConn the struct that override the net.Conn methods
